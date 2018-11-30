@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daily4SecondAttempt</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ENTER_FULL_NAME">Enter Full Name</string>
+    <string name="SEND_DISPLAY">Send To Display</string>
+    <string name="find_most_common_letter">Find most common Letter</string>
+</resources>
